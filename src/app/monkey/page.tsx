@@ -68,7 +68,7 @@ export default function Knive() {
 
         <p>
           Mas mesmo o amor sendo assim, nos sempre conseguimos nos equilibrar,
-          porque no final o que importa é estamos juntos, apoiando um ao outro
+          porque no final o que importa é estarmos juntos, apoiando um ao outro
         </p>
 
         <p>
