@@ -45,7 +45,7 @@ export default function Kanto() {
   return (
     <div className="m-auto flex h-screen flex-col items-center justify-center gap-10 px-4 pt-10 text-center">
       <h1>
-        Desde o nosso primeiro juntos eu sabia que você era{' '}
+        Desde o nosso primeiro encontro juntos eu sabia que você era{' '}
         <strong>Especial</strong>
       </h1>
 
