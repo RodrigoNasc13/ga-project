@@ -1,18 +1,4 @@
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardHeader,
-} from '@/src/components/ui/card'
-import {
-  Carousel,
-  CarouselContent,
-  CarouselItem,
-  CarouselNext,
-  CarouselPrevious,
-} from '@/src/components/ui/carousel'
-
-export default function Cage() {
+export default function Amelie() {
   return (
     <div className="flex flex-col items-center justify-center gap-20 px-4 pt-10 text-center lg:mt-30">
       <h1 className="font-bold text-3xl">Vídeo Final</h1>
